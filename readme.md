@@ -1,4 +1,4 @@
-## Laravel Roles Permissions Admin - Spatie version
+## A fork from Laravel Roles Permissions Admin - Spatie version
 
 This is a Laravel 5.4 adminpanel starter project with roles-permissions management based on [Spatie Laravel-permission package](https://github.com/spatie/laravel-permission), [AdminLTE theme](https://adminlte.io/) and [Datatables.net](https://datatables.net).
 
